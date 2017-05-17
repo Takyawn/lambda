@@ -1,0 +1,44 @@
+.top {
+	background: red;
+	width: 99%;
+	height:130px
+
+	
+}
+
+.left{
+	background:blue;
+	width:33%;
+	height:650px;
+	 
+	display:inline-block;
+	padding:0;
+}
+
+.middle{
+	background:purple;
+	width:33%;
+	height:650px;
+	position:relative;
+	left:-4px;
+	display:inline-block;
+	padding:0;
+}
+
+.right{
+	background:yellow;
+	width:33%;
+	height:650px;
+	position:relative;
+	left:-7px;
+	display:inline-block;
+	padding:0;
+}
+
+.bottom{
+	background:green;
+	width:99%;
+	height:130px;
+	position:relative;
+	top:-5px;
+}
